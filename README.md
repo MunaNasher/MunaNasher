@@ -1,15 +1,20 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Muna+%F0%9F%91%8B+)](https://git.io/typing-svg)
 <!--
-**MunaNasher/MunaNasher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a background in Information Systems and I'm passionate about learning new technologies, especially in data analysis and IT.  
+I enjoy improving my technical skills and working on projects that help me grow professionally.  
+My goal is to build a strong career in the tech field and gain practical experience.
 
-Here are some ideas to get you started:
+Interests
+- Data Analysis  
+- Technology & IT  
+- Learning new skills  
+- Problem solving  
+- Working with data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies I want to learn
+- Python  
+- SQL  
+- Power BI  
+- Machine Learning  
+- Web Development
+
