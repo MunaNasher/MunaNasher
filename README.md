@@ -1,22 +1,26 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Muna+%F0%9F%91%8B+)](https://git.io/typing-svg)
 
+I have a Bachelor’s degree in Computer Science with a background in Information Systems and practical training in Software Development and Data Engineering.
 
+I am passionate about working with data, exploring new technologies, and solving problems through analytical thinking. I have hands-on experience with Python, JavaScript, SQL, PostgreSQL, Microsoft Azure, and data processing tools.
 
-I have a background in Information Systems and I'm passionate about learning new technologies, especially in data analysis and IT.  
-I enjoy improving my technical skills and working on projects that help me grow professionally.  
-My goal is to build a strong career in the tech field and gain practical experience.
+I enjoy building projects, learning new technologies, and continuously developing my technical skills. My goal is to grow as an IT professional, particularly in Data Engineering and Data Analytics, while contributing to meaningful projects.
 
 Interests
-- Data Analysis  
-- Technology & IT  
-- Learning new skills  
-- Problem solving  
-- Working with data
 
-Technologies I want to learn
-- Python  
-- SQL  
-- Power BI  
-- Machine Learning  
-- Web Development
+* Data Engineering & Data Analytics
+* Cloud Technologies
+* Software Development
+* Problem Solving
+* Data Processing & Visualization
+* Continuous Learning
 
+Technologies & Areas of Interest
+
+* Python & JavaScript
+* SQL & PostgreSQL
+* Microsoft Azure
+* Power BI
+* Machine Learning
+* ETL & Data Pipelines
+* Web Development
